@@ -1,13 +1,14 @@
 # Licenciatura en Tecnología - Computación II
 
-![alt text](figs/lictec_small.png)
-
 ## Semestre 2022-2
 
-![alt text](figs/logo.png)
+<img src="figs/lictec_small.png" alt="drawing" width="300" style = "text-align: center"/>
+
 
 ## Profesor
-Dr. Ulises Olivares Pinto
+> ### Dr. Ulises Olivares Pinto
+
+![alt text](figs/logo.png)
 
 ## Objetivo
 El estudiante analizará y comprenderá distintos métodos numéricos para la resolución de problemas en el ámbito científico.
