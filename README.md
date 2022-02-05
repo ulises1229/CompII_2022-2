@@ -28,4 +28,4 @@ El estudiante analizará y comprenderá distintos métodos numéricos para la re
 |1.Eliminación Gaussiana (aplicaciones)|<ol><li>Operaciones Fundamentales</li><li>Eliminación Gaussiana</li><li>POO con Python</li></ol>|<ul><li>[]()</li> <li>[POO con Python](https://uniwebsidad.com/libros/python/capitulo-5/programacion-orientada-a-objetos) </li></ul>
 |2. Raices de polinomios)|<ol><li>El método de la bisección</li></ol>|<ul><li>[]()</li> </ul>
 
-Última modificación: **2 de febrero de 2022**
+Última modificación: **04 de febrero de 2022**
