@@ -16,8 +16,8 @@ El estudiante analizará y comprenderá distintos métodos numéricos para la re
 # Código en Clase
 | No.        | Tema           | Conceptos |Código  |  Material complementario|
 | :-------------: |:-------------| :-------------|:-----:| :-----|
-| 1.              | Introducción a la numpy en Python |   <ul><li> POO </li> <li>Librerías</li> </ul>   |  [Código Google Colab](code/Computación_II_(2022_2)_UNIDAD_I_.ipynb)   |  | 
-| 2.              | Resolución de sistemas de ecuaciones algebraicas lineales |   <ul><li> Eliminación Gaussiana</li> <li>Método de Gauss-Jordan</li> <li>Método gráfico</li> </ul>   |  []()   | Capítulo 9 - Numerical Methods, Steven Chapra | 
+| 1.              | Introducción a la numpy en Python |   <ul><li> POO </li> <li>Librerías</li> </ul>   |   <ol> <li>[Intro. Matemáticas Simbólicas en Python](code/Intro_Matemática_Simbólicas.ipynb) </li> <li>[Intro. Graficación en Python](code/Intro_Matemática_Simbólicas.ipynb) </li> </ol>  |  | 
+| 2.              | Resolución de sistemas de ecuaciones algebraicas lineales |   <ul><li> Eliminación Gaussiana</li> <li>Método de Gauss-Jordan</li> <li>Método gráfico</li> </ul>   | <ol> <li>[Código UNIDAD I](code/Computación_II_(2022_2)_UNIDAD_I_.ipynb) </li> </ol> | Capítulo 9 - Numerical Methods, Steven Chapra | 
 | 3.              | Raices de polinomios |   <ul><li> Método de la bisección </li>  </ul>   |  []()   | Capítulo 5 - Numerical Methods, Steven Chapra | 
 | 4.              | Interpolación |   <ul><li> Interpolación de Newton</li> <li> Interpolación de Lagrange</li> <li> Interpolación Spline</li>  </ul>   |  []()   | Capítulo  | 
 
